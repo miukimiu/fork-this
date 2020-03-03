@@ -1,6 +1,8 @@
 # fork-this
 They say I'm invisible! Fork this, I'm original!
 
+Devemos discutir o projecto [aqui](https://docs.google.com/document/d/1Zrw5FwJ5lcmlZNRq4h4s05Szjt6BIaEtGQ0fay2sXE4/edit?usp=sharing)
+
 ## About
 
 Explicar o que é que o projecto consiste. Incentivar mulheres na tech a seguirem a sua "passion"... As pessoas podem fazer as suas versões de "fork this" e colaborar... 
@@ -8,9 +10,3 @@ Explicar o que é que o projecto consiste. Incentivar mulheres na tech a seguire
 ## Contributors
 
 Ter uma lista dos contribuidores para este projecto.
-
-## Estrutura
-
-* Pasta music (pode ter outro nome). Dentro desta pasta deve constar o tema original, o acapella para quem quiser fazer remix e o instrumental para quem quiser fazer uma versão cantada.
-* Letra da música
-* Deverá haver um site so com o video e letra? 
