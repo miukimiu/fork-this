@@ -11,8 +11,8 @@ Overcoming imposter syndrome is a struggle, but if you just keep going, you can 
 Check out the full song here > [link here]
 
 Aaaaaand... If you’re into music and want to give it a try:
-Make your own remix 
-Make your own lyrics
+- Make your own remix 
+- Make your own lyrics
 
 Just fork the project and submit your versioooooonn!!!!
 
