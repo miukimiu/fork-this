@@ -17,7 +17,7 @@ Aaaaaand... If you’re into music and want to give it a try:
 Just fork the project and submit your versioooooonn!!!!
 
 Have fun, 
-Miuki Miu - *the DESIGNER who CODES.
+**Miuki Miu** - *the DESIGNER who CODES.
 
 
 ## Contributors
