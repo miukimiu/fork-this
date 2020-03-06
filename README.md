@@ -21,5 +21,5 @@ Have fun,
 
 
 ## Contributors
-Elizabet Oliveira aka. Miuki Miu
-Sofia Marques aka. mema. 
+Miuki Miu
+sofmema
