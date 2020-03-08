@@ -30,8 +30,11 @@ Have fun,
 ## Lyric
 
 Are you devs ready?
+
 I’m a designer who codes!
+
 They call me Miuki.
+
 Are you ready?
 
 I’ve been designing with Sketch
