@@ -79,6 +79,6 @@ Fork this, I’m original**
 
 ## Contributors
 
-[Miuki Miu](https://twitter.com/miuki_miu) - Video, Lyrics, rhymes, Design
+[Miuki Miu](https://twitter.com/miuki_miu) - Video, Lyrics, Rhymes, Design
 
 [Sofmema](https://twitter.com/sofmema) - Music Production, Design
