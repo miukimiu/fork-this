@@ -1,7 +1,7 @@
 ## About
 
 <div align="center" markdown="1">
-  <img src="https://raw.githubusercontent.com/miukimiu/fork-this/master/images/miukimiu-fork-this%402x.png" width="866">
+  <img src="https://github.com/miukimiu/fork-this/blob/master/images/miukimiu-fork-this%402.png" width="866">
 </div>
 
 "Fork This" tells the story of a designer who codes - me, Miuki Miu.
