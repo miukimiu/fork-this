@@ -1,6 +1,6 @@
 ## About
 
-![GitHub Logo](/images/miukimiu-fork-this.png)
+![Miuki Miu - Fork This](/images/miukimiu-fork-this.png)
 
 "Fork This" tells the story of a designer who codes - me, Miuki Miu.
 
