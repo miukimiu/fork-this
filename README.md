@@ -20,7 +20,7 @@ Aaaaaand... If you’re into music and want to give it a try:
 - Make your remix
 - Write your lyrics
 
-Just fork the project and submit your versioooooonn!!!! You can find different versions of the song here.
+Just fork the project and submit your versioooooonn!!!! You can find different versions of the song [here](/music).
 
 Have fun,
 **Miuki Miu** - \*the DESIGNER who CODES.
