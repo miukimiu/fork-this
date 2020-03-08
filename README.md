@@ -1,8 +1,6 @@
 ## About
 
-<div align="center" markdown="1">
-  <img src="https://raw.githubusercontent.com/miukimiu/fork-this/master/images/miukimiu-fork-this.png?token=AAU7RTDAHD6VF32GXZM73JK6MUKMG" width="866">
-</div>
+![GitHub Logo](/images/miukimiu-fork-this.png)
 
 "Fork This" tells the story of a designer who codes - me, Miuki Miu.
 
