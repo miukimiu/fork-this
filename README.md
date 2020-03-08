@@ -29,60 +29,58 @@ Have fun,
 
 ## Lyric
 
-Are you devs ready?
-
-I’m a designer who codes!
-
-They call me Miuki.
-
+Are you devs ready?\
+I’m a designer who codes!\
+They call me Miuki\
 Are you ready?
 
-I’ve been designing with Sketch
-Calling all these APIs, Fetch
-Server-side rendering Next
+I’ve been designing with Sketch\
+Calling all these APIs, Fetch\
+Server-side rendering Next\
 You can call me explorer, Edge
 
-Struggling with life cycles, React
-You can call me lightweight, Preact
-I’m way too complicated, Typescript
+Struggling with life cycles, React\
+You can call me lightweight, Preact\
+I’m way too complicated, Typescript\
 But I’m still in this class, type this
 
-Learning from mistakes Microsoft
-More than a million skills, Lara croft
-Trying to not look back, Angular
+Learning from mistakes Microsoft\
+More than a million skills, Lara croft\
+Trying to not look back, Angular\
 I don’t have an expression, Regular
 
-Animating SVGs, Original
-Let me kill it one time, terminal
-Watch me giving a talk, Netflix
+Animating SVGs, Original\
+Let me kill it one time, terminal\
+Watch me giving a talk, Netflix\
 I’m gonna keep it simple, ES6
 
-**I’m coding like a criminal  
-Designing like a miracle  
-They say I’m Invisible
+**I’m coding like a criminal\
+Designing like a miracle\
+They say I’m Invisible\
 Fork this, I’m original**
 
-Yeah, open source queen
-Old school girl, coding with VIM
-Github stars, github queen
+Yeah, open source queen\
+Old school girl, coding with VIM\
+Github stars, github queen\
 Feeling it, feeling it, changing the scene
 
-I’m an old school girl, hi5
-Sonic and Tails, Megadrive
-Coding and rhymes, Spotify
+I’m an old school girl, hi5\
+Sonic and Tails, Megadrive\
+Coding and rhymes, Spotify\
 You devs can’t see me, wi-fi
 
-No competition, goodbye
-No one can reach me, all right
-Another level, that’s right
+No competition, goodbye\
+No one can reach me, all right\
+Another level, that’s right\
 Call me Eleven, Sci-fi
 
-**I’m coding like a criminal  
-Designing like a miracle  
-They say I’m Invisible
+**I’m coding like a criminal\
+Designing like a miracle\
+They say I’m Invisible\
 Fork this, I’m original**
 
 ## Contributors
 
-Miuki Miu - Video, Lyrics, rhymes, Design
-Sofmema - Music Production, Design
+[Miuki Miu](https://twitter.com/miuki_miu) - Video, Lyrics, rhymes, Design
+
+[Sofmema](https://twitter.com/sofmema) - Music Production, Design
