@@ -1,6 +1,6 @@
 ## About
 
-[![Miuki Miu - Fork This](/images/miukimiu-fork-this.png)](https://youtu.be/bUmWcF0GSA4))
+[![Miuki Miu - Fork This](/images/miukimiu-fork-this.png)](https://youtu.be/bUmWcF0GSA4)
 
 "Fork This" tells the story of a designer who codes - me, Miuki Miu.
 
